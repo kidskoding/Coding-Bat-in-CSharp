@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aniru\\OneDrive\\Documents\\C#\\codingbat\\Warmup-1\\Warmup-1.csproj",
-      "projectName": "Warmup-1",
-      "projectPath": "C:\\Users\\aniru\\OneDrive\\Documents\\C#\\codingbat\\Warmup-1\\Warmup-1.csproj",
+      "projectUniqueName": "C:\\Users\\aniru\\OneDrive\\Documents\\C#\\codingbat\\Warmup-1\\Codingbat.csproj",
+      "projectName": "Codingbat",
+      "projectPath": "C:\\Users\\aniru\\OneDrive\\Documents\\C#\\codingbat\\Warmup-1\\Codingbat.csproj",
       "packagesPath": "C:\\Users\\aniru\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aniru\\OneDrive\\Documents\\C#\\codingbat\\Warmup-1\\obj\\",
       "projectStyle": "PackageReference",
