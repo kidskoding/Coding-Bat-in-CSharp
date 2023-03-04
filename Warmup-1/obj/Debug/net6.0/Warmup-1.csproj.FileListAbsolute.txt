@@ -1,0 +1,15 @@
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\bin\Debug\net6.0\Warmup-1.exe
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\bin\Debug\net6.0\Warmup-1.deps.json
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\bin\Debug\net6.0\Warmup-1.runtimeconfig.json
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\bin\Debug\net6.0\Warmup-1.dll
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\bin\Debug\net6.0\Warmup-1.pdb
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.csproj.AssemblyReference.cache
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.AssemblyInfoInputs.cache
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.AssemblyInfo.cs
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.csproj.CoreCompileInputs.cache
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.dll
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\refint\Warmup-1.dll
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.pdb
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\Warmup-1.genruntimeconfig.cache
+C:\Users\aniru\OneDrive\Documents\C#\codingbat\Warmup-1\obj\Debug\net6.0\ref\Warmup-1.dll
